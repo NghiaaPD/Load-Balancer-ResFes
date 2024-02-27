@@ -1,1 +1,1 @@
-D:\codeN\Project\Load-balancer-in-EGDE
+go run main.go --backends=http://1.54.161.54:3200,http://1.54.161.54:3201,http://1.54.161.54:3202
